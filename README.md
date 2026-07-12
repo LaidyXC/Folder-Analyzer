@@ -5,7 +5,7 @@
 - I made it to practice coding with powershell
 
 ## Features
-- It analyzes the path you type and returns 20 of the largest files size, name and when they were created. It also returns a breif summery on how many files were detected and theyre size all together.
+- It analyzes the path you type and returns 20 of the largest files size, name and date of creation. It also returns a breif summery on how many files were detected and theyre size all together.
 (pssst its not usefull at all)
 
 ## Requirements
